@@ -90,11 +90,14 @@
 > Adicionar a opção de recuperação de senha por meio de confirmação por mensagem via e-mail cadastrado do usuário.
 
 
-Resultado final no Lovable: https://chatfin-ease.lovable.app/auth
+Resultado final na Base 44: llink aqui
 
-<img width="1361" height="693" alt="Captura de Tela 2026-01-12 às 19 20 47" src="https://github.com/user-attachments/assets/0569393e-cf20-41c8-909a-04940a42c800" />
+<img width="937" height="729" alt="Captura de Tela 2026-01-15 às 17 42 52" src="https://github.com/user-attachments/assets/f73a6e14-1450-40fe-901e-2370f1ee2ca9" />
 
-<img width="1345" height="620" alt="Captura de Tela 2026-01-12 às 18 31 17" src="https://github.com/user-attachments/assets/e744ec6d-d479-4f0d-9b17-1c988d152874" />
+
+<img width="1350" height="729" alt="Captura de Tela 2026-01-15 às 17 43 13" src="https://github.com/user-attachments/assets/61a56bf4-eda7-4fad-b184-d7c2ffdbcb43" />
+
+
 
 
 # Resumo das Funcionalidades Principais do App Finanças Fácil
@@ -110,9 +113,10 @@ Resultado final no Lovable: https://chatfin-ease.lovable.app/auth
 # Reflexão sobre o processo:
   ### O que funcionou bem? 
   O refinamento do PRD feito no microsoft copilot
+  O app já venho com dados de exemplo para demonstração
   
   ### O que não funcionou com o esperado? 
-  Houve pouca intereção com o Lovable e os créditos terminaram
+  Durante as poucas interações grátis com a Base44 não deu para resolver ainda o problema da interação por audio, os créditos terminaram
   
  ### O que aprendeu sobre conversar com IAs?
  É como falar com o ser humano. É necessário detalhes simples e objetivo para obter o melhor resultado.
