@@ -108,10 +108,10 @@ Resultado final no Lovable: https://chatfin-ease.lovable.app/auth
 
 # Reflexão sobre o processo:
   ### O que funcionou bem? 
-  O refinamento do PRD feito no copilot.
+  O refinamento do PRD feito no microsoft copilot
   
   ### O que não funcionou com o esperado? 
-  Houve pouco intereção com o Lovable
+  Houve pouca intereção com o Lovable e os créditos terminaram
   
  ### O que aprendeu sobre conversar com IAs?
  É como falar com o ser humano. É necessário detalhes simples e objetivo para obter o melhor resultado.
