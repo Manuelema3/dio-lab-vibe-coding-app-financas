@@ -7,7 +7,7 @@
   Como funciona?
     - O usuário informa receitas e despesas diretamente via chat.
     - O sistema interpreta automaticamente o texto ou áudio e registra a transação na categoria correta.
-    - Categorias de gastos: Alimentação, Carro, Luz, Água, Planos, Investimentos e Extras.
+    - Categorias de gastos: Alimentação, Moradia, Carro, Luz, Água, Planos, Investimentos e Extras.
     - Regras de categorização:
     - Se o usuário não especificar a categoria → o app lança em Extras.
     - Diferencial: o app oferece:
@@ -61,11 +61,12 @@
     - Relatórios simples e personalizados exportáveis.
 
 # MVP – Entregável da IA
-  Telas principais:
+  Telas principais:  
     - Tela de Chat: interação por texto e áudio.
     - Tela de Relatórios: visão simples e clara das finanças.
     - Tela de Metas: acompanhamento de objetivos financeiros.
     - Tela de Configurações: personalização básica (categorias, notificações, acessibilidade).
+    - Asssitente Financeiro de IA com identificação
 
 # Princípios de Design Universal
   A solução foi construída de modo a permitir o uso pelo maior número possível de pessoas, respeitando os seguintes princípios:
@@ -79,10 +80,10 @@
 
 ```
 
-# Interações com o Lovable
+# Interações com a Base 44
 > Crie um App de Controle e Organização de Finanças Pessoais com base no seguinte PRD {PRD}.
  
-> Notei que o app não está fazendo registros via mensagem de áudio. Ative o Lovable Cloud para habilitar a interpretação de linguagem natural com IA, permitindo transcrição de áudio.
+> Notei que o app não está fazendo registros via mensagem de áudio. Ative e habilite a interpretação de linguagem natural com IA, permitindo transcrição de áudio.
  
 > Detetei que a proteção contra vazamento de senhas está desativada. Ativar a proteção contra vazamento de senhas.
  
