@@ -80,9 +80,9 @@
 ```
 
 # Interações com o Lovable
-> crie um App de Controle e Organização de Finanças Pessoais com base no seguinte PRD {PRD}.
+> Crie um App de Controle e Organização de Finanças Pessoais com base no seguinte PRD {PRD}.
  
-> Notei que o app não está fazendo registros via mensagem de áudio. Ative o Lovable Cloud para habilitar a interpretação de linguagem natural com IA, permitindo transcrição    de áudio.
+> Notei que o app não está fazendo registros via mensagem de áudio. Ative o Lovable Cloud para habilitar a interpretação de linguagem natural com IA, permitindo transcrição de áudio.
  
 > Detetei que a proteção contra vazamento de senhas está desativada. Ativar a proteção contra vazamento de senhas.
  
