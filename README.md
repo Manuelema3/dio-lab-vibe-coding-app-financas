@@ -90,7 +90,7 @@
 > Adicionar a opção de recuperação de senha por meio de confirmação por mensagem via e-mail cadastrado do usuário.
 
 
-Resultado final na Base 44: llink aqui
+Resultado final na Base 44: https://financas-facil-d.base44.app
 
 <img width="937" height="729" alt="Captura de Tela 2026-01-15 às 17 42 52" src="https://github.com/user-attachments/assets/f73a6e14-1450-40fe-901e-2370f1ee2ca9" />
 
