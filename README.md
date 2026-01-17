@@ -77,27 +77,19 @@
     - Tolerância a erros: evitar que o usuário se confunda ou perca dados.
     - Baixo esforço físico/cognitivo
     - Espaço adequado: interface adaptável a diferentes dispositivos e tamanhos de tela.
-
 ```
 
 # Interações com a Base 44
-> Crie um App de Controle e Organização de Finanças Pessoais com base no seguinte PRD {PRD}.
- 
-> Notei que o app não está fazendo registros via mensagem de áudio. Ative e habilite a interpretação de linguagem natural com IA, permitindo transcrição de áudio.
- 
-> Detetei que a proteção contra vazamento de senhas está desativada. Ativar a proteção contra vazamento de senhas.
- 
-> Adicionar a opção de recuperação de senha por meio de confirmação por mensagem via e-mail cadastrado do usuário.
-
+  - Crie um App de Controle e Organização de Finanças Pessoais com base no seguinte PRD {PRD}.
+  - Notei que o app não está fazendo registros via mensagem de áudio. Ative e habilite a interpretação de linguagem natural com IA, permitindo transcrição de áudio.
+  - Detetei que a proteção contra vazamento de senhas está desativada. Ativar a proteção contra vazamento de senhas.
+  - Adicionar a opção de recuperação de senha por meio de confirmação por mensagem via e-mail cadastrado do usuário.
 
 Resultado final na Base 44: https://financas-facil-d.base44.app
 
 <img width="937" height="729" alt="Captura de Tela 2026-01-15 às 17 42 52" src="https://github.com/user-attachments/assets/f73a6e14-1450-40fe-901e-2370f1ee2ca9" />
 
-
 <img width="1350" height="729" alt="Captura de Tela 2026-01-15 às 17 43 13" src="https://github.com/user-attachments/assets/61a56bf4-eda7-4fad-b184-d7c2ffdbcb43" />
-
-
 
 
 # Resumo das Funcionalidades Principais do App Finanças Fácil
@@ -111,13 +103,13 @@ Resultado final na Base 44: https://financas-facil-d.base44.app
 
 
 # Reflexão sobre o processo:
-  ### O que funcionou bem? 
-  O refinamento do PRD feito no microsoft copilot
-  O app já venho com dados de exemplo para demonstração
+## O que funcionou bem? 
+  - O refinamento do PRD feito no microsoft copilot
+  - O app já venho com dados de exemplo para demonstração
   
-  ### O que não funcionou com o esperado? 
-  Durante as poucas interações grátis com a Base44 não deu para resolver ainda o problema da interação por audio, os créditos terminaram
+## O que não funcionou como esperado? 
+  - Durante as poucas interações grátis com a Base44 não deu para resolver ainda o problema da interação por audio, os créditos terminaram
   
- ### O que aprendeu sobre conversar com IAs?
- É como falar com o ser humano. É necessário detalhes simples e objetivo para obter o melhor resultado.
+## O que aprendeu sobre conversar com IAs?
+ - É como falar com o ser humano. É necessário detalhes simples e objetivo para obter o melhor resultado.
 
